@@ -2,5 +2,5 @@
   <div>
   <nav>this is my default layoutd nav bar </nav>
   </div>
-  <slot />
+  <div><slot /></div>
 </template>
